@@ -25,14 +25,15 @@ namespace _11650좌표_정렬하기
         static void Main(string[] args)
         {
             StreamReader sr = new StreamReader(Console.OpenStandardInput());
-            StreamWriter sw = new StreamWriter("output.txt");
+            StreamWriter sw = new StreamWriter(Console.OpenStandardOutput());
+            StringBuilder sb = new StringBuilder();
 
             List<map> compare = new List<map>();
             
 
             int n = int.Parse(sr.ReadLine());
 
-            for(int i = 0;i<n;i++)
+            for(int i = 0; i < n; i++)
             {
                 string[] input = sr.ReadLine().Split(' ');
                 int a = int.Parse(input[0]);
@@ -49,9 +50,12 @@ namespace _11650좌표_정렬하기
 
             foreach (var output in compare)
             {
-                sw.WriteLine($"{output.x} {output.y}");
+                sb.AppendLine($"{output.x} {output.y}");
             }
+            
+            sw.Write(sb.ToString());
             sw.Close();
+            sr.Close();
         }
     }
 }
