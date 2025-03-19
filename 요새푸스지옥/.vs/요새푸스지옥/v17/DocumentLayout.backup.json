@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zakij\\OneDrive\\\uBB38\uC11C\\GitHub\\Baekjoon\\\uC694\uC0C8\uD478\uC2A4\uC9C0\uC625\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3C08BC-5541-4B9E-B031-4B42529E3951}|\uC694\uC0C8\uD478\uC2A4\uC9C0\uC625.csproj|c:\\users\\zakij\\onedrive\\\uBB38\uC11C\\github\\baekjoon\\\uC694\uC0C8\uD478\uC2A4\uC9C0\uC625\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3C08BC-5541-4B9E-B031-4B42529E3951}|\uC694\uC0C8\uD478\uC2A4\uC9C0\uC625.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zakij\\OneDrive\\\uBB38\uC11C\\GitHub\\Baekjoon\\\uC694\uC0C8\uD478\uC2A4\uC9C0\uC625\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zakij\\OneDrive\\\uBB38\uC11C\\GitHub\\Baekjoon\\\uC694\uC0C8\uD478\uC2A4\uC9C0\uC625\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:10:33.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

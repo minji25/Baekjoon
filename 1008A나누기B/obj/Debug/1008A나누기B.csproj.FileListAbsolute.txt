@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1008A나누기B\bin\Debug\1008A나누기B.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1008A나누기B\bin\Debug\1008A나누기B.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1008A나누기B\bin\Debug\1008A나누기B.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1008A나누기B\obj\Debug\1008A나누기B.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1008A나누기B\obj\Debug\1008A나누기B.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1008A나누기B\obj\Debug\1008A나누기B.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1008A나누기B\obj\Debug\1008A나누기B.pdb

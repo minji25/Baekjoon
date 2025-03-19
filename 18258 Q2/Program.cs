@@ -15,15 +15,14 @@ namespace _18258_Q2
         {
             Queue q = new Queue();
             StringBuilder result = new StringBuilder();
-            StreamWriter sw = new StreamWriter(Console.OpenStandardOutput());
-            StreamReader sr = new StreamReader(Console.OpenStandardInput());
+
 
             int last = 0;
-            int orderint = int.Parse(sr.ReadLine());
+            int orderint = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < orderint; i++)
             {
-                string[] input = sr.ReadLine().Split(' ');
+                string[] input = Console.ReadLine().Split(' ');
 
                 switch (input[0])
                 {
@@ -57,9 +56,8 @@ namespace _18258_Q2
                         break;
                 }
             }
-            sw.Write(result);
-            sr.Close();
-            sw.Close();
+            Console.Write(result);
+
         }
     }
 }

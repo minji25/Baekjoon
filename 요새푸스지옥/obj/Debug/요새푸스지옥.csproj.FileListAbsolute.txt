@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\요새푸스지옥\bin\Debug\요새푸스지옥.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\요새푸스지옥\bin\Debug\요새푸스지옥.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\요새푸스지옥\bin\Debug\요새푸스지옥.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\요새푸스지옥\obj\Debug\요새푸스지옥.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\요새푸스지옥\obj\Debug\요새푸스지옥.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\요새푸스지옥\obj\Debug\요새푸스지옥.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\요새푸스지옥\obj\Debug\요새푸스지옥.pdb

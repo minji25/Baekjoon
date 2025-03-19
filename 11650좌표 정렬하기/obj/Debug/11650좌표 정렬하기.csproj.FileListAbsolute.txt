@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\11650좌표 정렬하기\bin\Debug\11650좌표 정렬하기.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\11650좌표 정렬하기\bin\Debug\11650좌표 정렬하기.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\11650좌표 정렬하기\bin\Debug\11650좌표 정렬하기.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\11650좌표 정렬하기\obj\Debug\11650좌표 정렬하기.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\11650좌표 정렬하기\obj\Debug\11650좌표 정렬하기.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\11650좌표 정렬하기\obj\Debug\11650좌표 정렬하기.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\11650좌표 정렬하기\obj\Debug\11650좌표 정렬하기.pdb

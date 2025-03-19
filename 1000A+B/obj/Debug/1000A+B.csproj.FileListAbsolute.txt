@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1000A+B\bin\Debug\1000A+B.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1000A+B\bin\Debug\1000A+B.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1000A+B\bin\Debug\1000A+B.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1000A+B\obj\Debug\1000A+B.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1000A+B\obj\Debug\1000A+B.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1000A+B\obj\Debug\1000A+B.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1000A+B\obj\Debug\1000A+B.pdb

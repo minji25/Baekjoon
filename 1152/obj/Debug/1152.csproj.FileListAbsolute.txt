@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1152\bin\Debug\1152.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1152\bin\Debug\1152.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1152\bin\Debug\1152.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1152\obj\Debug\1152.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1152\obj\Debug\1152.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1152\obj\Debug\1152.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\1152\obj\Debug\1152.pdb
