@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\GitHub\Baekjoon\11729하노이\bin\Debug\11729하노이.exe.config
 C:\GitHub\Baekjoon\11729하노이\bin\Debug\11729하노이.exe
 C:\GitHub\Baekjoon\11729하노이\bin\Debug\11729하노이.pdb
@@ -5,3 +6,12 @@ C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.csproj.AssemblyRefere
 C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.csproj.CoreCompileInputs.cache
 C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.exe
 C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.pdb
+=======
+C:\GitHub\Baekjoon\11729하노이\bin\Debug\11729하노이.exe.config
+C:\GitHub\Baekjoon\11729하노이\bin\Debug\11729하노이.exe
+C:\GitHub\Baekjoon\11729하노이\bin\Debug\11729하노이.pdb
+C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.csproj.AssemblyReference.cache
+C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.csproj.CoreCompileInputs.cache
+C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.exe
+C:\GitHub\Baekjoon\11729하노이\obj\Debug\11729하노이.pdb
+>>>>>>> 4b7fb61aefbb28b2ee674984450a86175c9f8335

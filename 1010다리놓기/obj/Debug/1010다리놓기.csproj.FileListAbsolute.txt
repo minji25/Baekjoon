@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\GitHub\Baekjoon\1010다리놓기\bin\Debug\1010다리놓기.exe.config
 C:\GitHub\Baekjoon\1010다리놓기\bin\Debug\1010다리놓기.exe
 C:\GitHub\Baekjoon\1010다리놓기\bin\Debug\1010다리놓기.pdb
@@ -5,3 +6,12 @@ C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.csproj.AssemblyRe
 C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.csproj.CoreCompileInputs.cache
 C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.exe
 C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.pdb
+=======
+C:\GitHub\Baekjoon\1010다리놓기\bin\Debug\1010다리놓기.exe.config
+C:\GitHub\Baekjoon\1010다리놓기\bin\Debug\1010다리놓기.exe
+C:\GitHub\Baekjoon\1010다리놓기\bin\Debug\1010다리놓기.pdb
+C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.csproj.AssemblyReference.cache
+C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.csproj.CoreCompileInputs.cache
+C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.exe
+C:\GitHub\Baekjoon\1010다리놓기\obj\Debug\1010다리놓기.pdb
+>>>>>>> 4b7fb61aefbb28b2ee674984450a86175c9f8335
