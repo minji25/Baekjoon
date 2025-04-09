@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\4779칸토어 집합\obj\Debug\4779칸토어 집합.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\4779칸토어 집합\obj\Debug\4779칸토어 집합.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\4779칸토어 집합\bin\Debug\4779칸토어 집합.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\4779칸토어 집합\bin\Debug\4779칸토어 집합.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\4779칸토어 집합\bin\Debug\4779칸토어 집합.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\4779칸토어 집합\obj\Debug\4779칸토어 집합.exe
+C:\Users\zakij\OneDrive\문서\GitHub\Baekjoon\4779칸토어 집합\obj\Debug\4779칸토어 집합.pdb
