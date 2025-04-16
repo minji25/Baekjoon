@@ -1,0 +1,7 @@
+C:\GitHub\Baekjoon\2839설탕배달\bin\Debug\2839설탕배달.exe.config
+C:\GitHub\Baekjoon\2839설탕배달\bin\Debug\2839설탕배달.exe
+C:\GitHub\Baekjoon\2839설탕배달\bin\Debug\2839설탕배달.pdb
+C:\GitHub\Baekjoon\2839설탕배달\obj\Debug\2839설탕배달.csproj.AssemblyReference.cache
+C:\GitHub\Baekjoon\2839설탕배달\obj\Debug\2839설탕배달.csproj.CoreCompileInputs.cache
+C:\GitHub\Baekjoon\2839설탕배달\obj\Debug\2839설탕배달.exe
+C:\GitHub\Baekjoon\2839설탕배달\obj\Debug\2839설탕배달.pdb
