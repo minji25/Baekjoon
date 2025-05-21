@@ -1,0 +1,7 @@
+C:\GitHub\Baekjoon\1654랜선자르기\bin\Debug\1654랜선자르기.exe.config
+C:\GitHub\Baekjoon\1654랜선자르기\bin\Debug\1654랜선자르기.exe
+C:\GitHub\Baekjoon\1654랜선자르기\bin\Debug\1654랜선자르기.pdb
+C:\GitHub\Baekjoon\1654랜선자르기\obj\Debug\1654랜선자르기.csproj.AssemblyReference.cache
+C:\GitHub\Baekjoon\1654랜선자르기\obj\Debug\1654랜선자르기.csproj.CoreCompileInputs.cache
+C:\GitHub\Baekjoon\1654랜선자르기\obj\Debug\1654랜선자르기.exe
+C:\GitHub\Baekjoon\1654랜선자르기\obj\Debug\1654랜선자르기.pdb

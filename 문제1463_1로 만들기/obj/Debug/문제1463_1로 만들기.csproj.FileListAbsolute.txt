@@ -1,0 +1,7 @@
+C:\GitHub\Baekjoon\문제1463_1로 만들기\bin\Debug\문제1463_1로 만들기.exe.config
+C:\GitHub\Baekjoon\문제1463_1로 만들기\bin\Debug\문제1463_1로 만들기.exe
+C:\GitHub\Baekjoon\문제1463_1로 만들기\bin\Debug\문제1463_1로 만들기.pdb
+C:\GitHub\Baekjoon\문제1463_1로 만들기\obj\Debug\문제1463_1로 만들기.csproj.AssemblyReference.cache
+C:\GitHub\Baekjoon\문제1463_1로 만들기\obj\Debug\문제1463_1로 만들기.csproj.CoreCompileInputs.cache
+C:\GitHub\Baekjoon\문제1463_1로 만들기\obj\Debug\문제1463_1로 만들기.exe
+C:\GitHub\Baekjoon\문제1463_1로 만들기\obj\Debug\문제1463_1로 만들기.pdb

@@ -21,12 +21,12 @@ namespace _16928뱀과사다리게임
             int n = int.Parse(input[0]); //사다리 개수
             int m = int.Parse(input[1]); //뱀의 수
 
-            for(int i = 0;i<n;i++)
+            for(int i = 0;i<n;i++) //사다리
             {
                 string[] inputLadder = Console.ReadLine().Split(' ');
                 board[int.Parse(inputLadder[0])] = int.Parse(inputLadder[1]);
             }
-            for (int j = 0; j < m; j++)
+            for (int j = 0; j < m; j++) //뱀
             {
                 string[] inputLadder = Console.ReadLine().Split(' ');
                 board[int.Parse(inputLadder[0])] = int.Parse(inputLadder[1]);
@@ -34,17 +34,20 @@ namespace _16928뱀과사다리게임
 
             for(int k=0;k<101;k++)
             {
-                if (board[k] == 0)
+                if (board[k] == 0) //뱀도 사다리도 없는 경우
                     board[k] = k;
             }
+
+            Console.WriteLine(BFS());
             
         }
 
         static int BFS()
         {
-            var q = new Queue<(int pos, int cnt)>();
-            q.Enqueue((1, 0));
+            var q = new Queue<(int pos, int cnt)>(); //출발지와 도착지
+            q.Enqueue((1, 0)); //첫번째 칸 추가
             visited[1] = true;
+
             while (q.Count > 0)
             {
                 var (pos, cnt) = q.Dequeue();

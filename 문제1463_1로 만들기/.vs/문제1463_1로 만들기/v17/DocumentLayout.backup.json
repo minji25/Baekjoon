@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Baekjoon\\\uBB38\uC81C1463_1\uB85C \uB9CC\uB4E4\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F1BCB-0ABA-4E4F-92CC-2BF00719A3CC}|\uBB38\uC81C1463_1\uB85C \uB9CC\uB4E4\uAE30.csproj|c:\\github\\baekjoon\\\uBB38\uC81C1463_1\uB85C \uB9CC\uB4E4\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2F1BCB-0ABA-4E4F-92CC-2BF00719A3CC}|\uBB38\uC81C1463_1\uB85C \uB9CC\uB4E4\uAE30.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Baekjoon\\\uBB38\uC81C1463_1\uB85C \uB9CC\uB4E4\uAE30\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\Baekjoon\\\uBB38\uC81C1463_1\uB85C \uB9CC\uB4E4\uAE30\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:44:03.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
